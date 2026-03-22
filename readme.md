@@ -26,6 +26,7 @@ Based on these predictions, a **decision engine** recommends:
 
 ```
 git clone <repository_url>
+cd PROJECT1
 ```
 
 ## 2. Install dependencies
@@ -36,13 +37,7 @@ pip install -r requirements.txt
 
 ## 3. Run the notebook or script
 
-Execute the training pipeline:
-
-```
-python main.py
-```
-
-or open and run the Jupyter/Kaggle notebook.
+ open and run the Jupyter/Kaggle notebook.
 
 ---
 
